@@ -1,0 +1,10 @@
+.title{
+    color: blue;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    border-style: dotted;
+}
+
+.italic{
+    color: grey;
+    font-style: italic;
+}
